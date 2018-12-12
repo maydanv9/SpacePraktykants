@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a29bb26be9776d4498b68f927cc184b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - asteroid1: {fileID: 1649110873433576, guid: a3079be0f6e149c4ea2aaf4a5f26a091,
+      type: 2}
+  - asteroid2: {fileID: 1620183050346154, guid: bb79f97328a8bf04e8744ee824d2c0d5,
+      type: 2}
+  - asteroid3: {fileID: 1715860680524944, guid: d5b5c36a4d325bf4391d0bd974293530,
+      type: 2}
+  - enemyShip: {fileID: 1214041881454336, guid: 89d2d20a23d059641a5da88594849acd,
+      type: 2}
+  - scoreText: {instanceID: 0}
+  - heart1: {fileID: 54977229600545444, guid: 8227fc005e7e1d74388b72693b86523c, type: 2}
+  - heart2: {fileID: 54981691202293074, guid: 902454b12953eae4abbc615826f0eb57, type: 2}
+  - heart3: {fileID: 54882985951801872, guid: 175253a6193f2c743a18e15a7dd3d266, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
