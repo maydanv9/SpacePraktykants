@@ -1,2 +1,2 @@
 # SpacePraktykants
-Project of 3D Space Shooter created by Dawid Majdanik.
+SpacePraktykants - Simple 2D space shooter with some 3D graphics and simple gameplay.
